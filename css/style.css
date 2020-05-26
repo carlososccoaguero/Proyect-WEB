@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.boton{
+    border-radius: 3px;
+    background: #85ff00;
+    height: 50px;
+    width: 10%;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 50px 50px;
+}
+.codigo{
+    border-radius: 5px;
+    height: 40px;
+    width: 5%;
+    margin: 50px;
+}
+.contenedor{
+    margin: 15px;
+}
+.enunciado{
+    margin: 15px;
+}
+.boton:hover{
+    background: #01ff00;
+}
